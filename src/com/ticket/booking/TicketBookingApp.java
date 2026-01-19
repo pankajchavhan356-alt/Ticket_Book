@@ -14,6 +14,7 @@ public class TicketBookingApp {
 	        user1.start();
 	        user2.start();
 	        user3.start();
+	        //System.out.println(ok);
 	    }
 	}
 
